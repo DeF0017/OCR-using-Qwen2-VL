@@ -27,3 +27,8 @@ The [Qwen2-VL-2B Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) mod
 ```bash
 git clone https://github.com/your-username/ocr-using-qwen2-vl.git
 cd ocr-using-qwen2-vl
+```
+
+## Deployment
+
+Huggingfaace Space: [ink](https://huggingface.co/spaces/DeF0017/OCR-using-Qwen2-VL)
