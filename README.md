@@ -25,5 +25,5 @@ The [Qwen2-VL-2B Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) mod
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/qwen2-vl-ocr.git
-cd qwen2-vl-ocr
+git clone https://github.com/your-username/ocr-using-qwen2-vl.git
+cd ocr-using-qwen2-vl
